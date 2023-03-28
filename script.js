@@ -9,5 +9,5 @@ async function placebear(){
     let main=document.getElementById("image");
     img.src=link;
     main.append(img);
-    //document.getElementById("image").innerHTML=`<img src=${link} alt="dog pics"title="dog"/>`
+    
 }
